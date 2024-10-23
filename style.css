@@ -1,0 +1,31 @@
+body {
+    color: rgb(255, 255, 255);
+    background: rgb(57, 57, 58);
+    margin: 0px;
+    font-family: 'Chakra Petch', sans-serif
+}
+
+h1 { 
+    font-size: 40px;
+}
+
+header {
+    border: solid 3px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+
+
+div {
+    border: solid 3px rgb(255, 255, 255);
+}
+
+
+section {
+    background: #000000;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
